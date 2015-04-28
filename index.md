@@ -1,65 +1,63 @@
 ---
-layout: page
+layout: home
 title: Daniel Fosco
-tagline: null
+tagline: Product Designer
+hero: /assets/img/hero_image.png
+"hero-alt": null
 published: true
-top-nav: none
 ---
 
-{% include JB/setup %}
+#I’m <span class="accent">Daniel Fosco</span>, a designer based in Rio de Janeiro.
 
-##Who
+![Yes, this one's me](http://i.imgur.com/GMkqnNn.jpg)
 
----
+<em>Hi!</em>
 
-Graduated in Publishing at UFRJ. 
+###I design to solve problems for people.
+I work closely with small clients and startups to design websites and mobile apps that meet the goals of their customers and move their business forward.
 
-Can't seem to leave the computer, though. 
+My expertise is in <span class="accent">UX Design</span>, <span class="accent">Prototyping</span> & <span class="accent">Front-end Development</span>.
 
-In practice, makes:
+I'm available for new projects starting the first quarter of 2015. [Get in touch](mailto:danielfosco@gmail.com?subject=Hello, let%E2%80%99s%20work%20together).
 
-<ul>
-    <li>Content Strategy</li>
-    <li>Web Design</li>
-    <li class="strike">Spaghetti code</li>
-</ul>
+###Recent projects
+<div class="button-wrap">
+    <a href="{{ site.url }}/work/swerve-app">
+        <div class="btn">
+            Swerve Fitness
+        </div>
+    </a>
+</div>
 
-##Where
+<div class="button-wrap">
+    <a href="{{ site.url }}/work/circular-app">
+        <div class="btn">
+            Circular
+        </div>
+    </a>
+</div>
 
----
+<div class="button-wrap">
+    <a href="{{ site.url }}/work/instagram-print">
+        <div class="btn">
+            Instagram Print
+        </div>
+    </a>    
+</div>
 
-Rio de Janeiro, Brazil. 
+###Writing
+I post a bunch of links on <a href="{{ site.url }}/links">danielfos.co/links</a>. I also write (occasionally) [here](http://blog.danielfos.co/).
 
-Currently working at the tech consulting startup [Hub9](https://www.facebook.com/hub9.co "Hub9 Facebook page").
+###About
+My background is in Book Publishing, but I gradually transitioned into Design.
 
-Previously, manager for QA and content distribution at the <span class="nowrap">e-book</span> aggregator [Xeriph](http://www.xeriph.com.br "Xeriph Homepage").
+After working in a digital publishing startup for a few years, I decided to fully shift to Digital Product Design — to be involved with and *own* the design process from start to end.
 
-##Selected Portfolio
+For this, General Assembly's <a href="https://generalassemb.ly/education/user-experience-design-immersive/new-york-city" target="_blank">10-week UX Design program</a> I took in 2014 was instrumental to complement my UX skillset — as well as build relationships with other kickass designers.
 
----
+<a href="http://f.cl.ly/items/1J352y0G2r3w313J3v3M/cv_danielfosco.pdf" target="_blank">Download my CV</a>.
 
-<p class="port"><a href="http://www.cobrabijouterias.com.br" alt="CobraBijouterias">Cobra Bijouterias</a> Content production.</p>
+###Say hi
+Drop me a line at [danielfosco@gmail.com](mailto:danielfosco@gmail.com?subject=Hello, let%E2%80%99s%20work%20together) or [@notdanielfosco](https://www.twitter.com/notdanielfosco). 
 
-<p class="port"><a href="http://www.cobracnc.com.br" alt="CobraCNC">CobraCNC</a> Content strategy and production, webdesign, digital marketing.</p>
-
-<p class="port"><a href="http://sacavalcante.com.br/sitenovo/" alt="Homepage Sá Cavalcante">Sá Cavalcante</a> Content strategy and production, webdesign.</p>
-
-<p><a href="http://www.linkedin.com/in/danielfosco/en" alt="LinkedIn Daniel Fosco">Other projects</a></p>
-
-
-##Personal Projects
-
----
-
-<p class="port"><a href="/en/livro" title="LIVRO">LIVRO</a> A technological exploration of reading.</p>
-
-<p class="port"><a href="/blog/">Blog</a> Mostly in portuguese.</p>
-
-
-##Say hi
----
-Drop me a line at <a href="#">danielfosco@gmail.com</a> or [@notdanielfosco](https://www.twitter.com/notdanielfosco).   
-   
-I'm also on [Github](https://github.com/dfosco) and [LinkedIn](https://www.linkedin.com/in/danielfosco/en).   
-
-<div class="text-center" id="translate"><small>Ei. Fala português? <a href="../pt" title="Versão em português">Clique aqui</a>.</small></div>
+You can also find me on [Github](https://github.com/dfosco) and [LinkedIn](https://www.linkedin.com/in/danielfosco/en).
